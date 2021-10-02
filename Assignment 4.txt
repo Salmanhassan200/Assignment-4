@@ -1,0 +1,13 @@
+void main(){
+  abc(7);  
+  
+  
+  
+}
+
+
+
+void abc(num tab){
+  for( int i=0; i<10; i++){
+    print("7 x ${i+1} = ${7*(i+1)}");}
+}
